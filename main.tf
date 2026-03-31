@@ -6,7 +6,7 @@ provider "aws" {
 
 
 
-resource "aws_instance" "dummyec2" {
+resource "aws_instance" "d_dummyec2" {
 
   ami = "ami-0931307dcdc2a28c9"
 
